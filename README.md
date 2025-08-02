@@ -57,6 +57,12 @@ app/
  │       ├── assets/
  │       │   ├── model_with_metadata.tflite
  │       │   └── labels.txt
+ |       ├── res/
+ |       |   ...
+ |       |   └── xml/
+ |       |       ...
+ |       |       └── file_paths.xml
+ |       ├── AndroidManifest.xml
 ```
 
 ---
