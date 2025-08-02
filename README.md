@@ -72,7 +72,8 @@ app/
    * Picking image from gallery
 
 ---
-
+## 🖼️ Screenshots
+[Screenshot.jpeg]
 ## 🚀 Future Improvements
 
 * Add model auto-download via Firebase
