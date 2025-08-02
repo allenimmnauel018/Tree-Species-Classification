@@ -57,6 +57,12 @@ app/
  │       ├── assets/
  │       │   ├── model_with_metadata.tflite
  │       │   └── labels.txt
+ |       ├── res/
+ |       |   ...
+ |       |   └── xml/
+ |       |       ...
+ |       |       └── file_paths.xml
+ |       └── AndroidManifest.xml
 ```
 
 ---
@@ -72,7 +78,10 @@ app/
    * Picking image from gallery
 
 ---
+## 🖼️ Screenshots
+![Screenshot](./Screenshot.jpeg) 
 
+---
 ## 🚀 Future Improvements
 
 * Add model auto-download via Firebase
@@ -99,4 +108,4 @@ If you found this useful, feel free to ⭐ star the repo and contribute!
 
 ---
 
-*Built by Allen Immanuel (2025)*
+*Built by Jenish Allen Immanuel J (2025)*
