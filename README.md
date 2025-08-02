@@ -73,7 +73,9 @@ app/
 
 ---
 ## 🖼️ Screenshots
-[Screenshot.jpeg]
+(Screenshot.jpeg)
+
+---
 ## 🚀 Future Improvements
 
 * Add model auto-download via Firebase
