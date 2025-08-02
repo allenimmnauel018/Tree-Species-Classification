@@ -73,7 +73,7 @@ app/
 
 ---
 ## 🖼️ Screenshots
-(Screenshot.jpeg)
+![Screenshot](./Screenshot.jpeg) 
 
 ---
 ## 🚀 Future Improvements
