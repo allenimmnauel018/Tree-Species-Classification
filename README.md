@@ -102,4 +102,4 @@ If you found this useful, feel free to ⭐ star the repo and contribute!
 
 ---
 
-*Built by Allen Immanuel (2025)*
+*Built by Jenish Allen Immanuel J (2025)*
