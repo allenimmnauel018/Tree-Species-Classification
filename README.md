@@ -62,7 +62,7 @@ app/
  |       |   └── xml/
  |       |       ...
  |       |       └── file_paths.xml
- |       ├── AndroidManifest.xml
+ |       └── AndroidManifest.xml
 ```
 
 ---
